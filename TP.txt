@@ -1,4 +1,11 @@
 
 CREATE TABLE personne (nom, prenom, age, adresse) ;
 
+<<<<<<< HEAD
 SELECT nom, prenom, adresse FROM personne ;
+=======
+SELECT nom, prenom FROM personne ;
+
+F*ck la police!
+>>>>>>> c681d779b2fcdbf02869384f3b336c26bb4e9b78
+Bonjour à tous!
