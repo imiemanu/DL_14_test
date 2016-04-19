@@ -1,0 +1,4 @@
+
+CREATE TABLE personne (nom, prenom, age, adresse) ;
+
+SELECT nom, prenom FROM personne ;
